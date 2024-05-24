@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import 'C:\\Users\\sdeva\\.vscode\\Learning\\fitness-tracker-app\\src\\Styles\\FitnessTrackerApp.css';
+import '../styles/FitnessTrackerApp.css';
 
 const FitnessTrackerApp = () => {
   const [exercises, setExercises] = useState([]);
