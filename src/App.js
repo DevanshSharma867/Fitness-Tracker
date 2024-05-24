@@ -1,6 +1,6 @@
 import React from 'react';
-import FitnessTrackerApp from 'C:\\Users\\sdeva\\.vscode\\Learning\\fitness-tracker-app\\src\\Components\\FitnessTrackerApp';
-import 'C:\\Users\\sdeva\\.vscode\\Learning\\fitness-tracker-app\\src\\index.css';
+import FitnessTrackerApp from './components/FitnessTrackerApp.js';
+import './index.css';
 
 const App = () => {
   return (
